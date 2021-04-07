@@ -13,7 +13,7 @@
         "laravel/framework": "5.8.*",
         "laravel/tinker": "^1.0",
         "vlucas/pikirasa": "^1.0",
-        "phpseclib/phpseclib": "0.3",
+        "phpseclib/phpseclib": "2.0.31",
         "paragonie/easyrsa": "0.5.2"
     },
     "require-dev": {
